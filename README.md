@@ -19,7 +19,7 @@ Python • React • Node.js • MongoDB • API • AI • .NET • Angular •
 ---
 
 ### 🌐 Live Animated Banner  
-[Click here to view the animated banner](https://tamar-levi.github.io/tamar_levi_animated_banner.html)
+[Click here](https://tamar-levi.github.io/tamar_levi_animated_banner.html)
 
 ---
 
