@@ -1,16 +1,17 @@
-## Hi there 👋
+<img src="./A_digital_graphic_design_resume_banner_features_Ta.png" alt="Tamar Levi banner" style="width:100%;" />
 
-<!--
-**tamar-levi/tamar-levi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Tamar Levi
 
-Here are some ideas to get you started:
+**Full Stack & AI Developer**  
+Passionate about building full-stack solutions for clients while expanding my expertise in AI and machine learning.
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack  
+Python • React • Node.js • MongoDB • API • AI
+
+---
+
+### 🔗 Connect with me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-scrolls--website.vercel.app-1f6feb?style=for-the-badge&logo=vercel&logoColor=white)](https://scrolls-website.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-contact-blue?style=for-the-badge&logo=gmail)](mailto:T0527144636@gmail.com)
