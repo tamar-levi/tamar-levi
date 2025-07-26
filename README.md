@@ -1,4 +1,4 @@
-<img src="https://github.com/tamar-levi/tamar-levi/blob/main/A_digital_graphic_design_resume_banner_features_Ta.png?raw=true" alt="Tamar Levi banner" style="width:100%; height: 400px;"  />
+<img src="https://github.com/tamar-levi/tamar-levi/blob/main/A_digital_graphic_design_resume_banner_features_Ta.png?raw=true" alt="Tamar Levi banner" style="width:100%; height: 500px;"  />
 
 
 
