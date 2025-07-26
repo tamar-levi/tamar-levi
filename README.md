@@ -11,12 +11,14 @@ Passionate about building full-stack solutions for clients while expanding my ex
 ---
 
 ### 🚀 Tech Stack  
-Python • React • Node.js • MongoDB • API • AI
+Python • React • Node.js • MongoDB • API • AI • .NET • Angular • C++ • C
 
 ---
 
 
-### 🔗 Connect with me
+### My sites
 
-//[![Portfolio](https://img.shields.io/badge/Portfolio-scrolls--website.vercel.app-1f6feb?style=for-the-badge&logo=vercel&logoColor=white)](https://scrolls-website.vercel.app/)//
+[![Portfolio](https://img.shields.io/badge/Portfolio-scrolls--website.vercel.app-1f6feb?style=for-the-badge&logo=vercel&logoColor=white)](https://scrolls-website.vercel.app/)
+
+### 🔗 Connect with me
 [![Email](https://img.shields.io/badge/Email-contact-blue?style=for-the-badge&logo=gmail)](mailto:T0527144636@gmail.com)
